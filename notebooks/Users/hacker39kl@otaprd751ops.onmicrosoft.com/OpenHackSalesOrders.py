@@ -9,6 +9,7 @@ display(df2)
 
 # COMMAND ----------
 
+#test
 df2 = df2.select('OrderDetailID','OrderID','MovieID','Quantity','UnitCost','LineNumber')
 
 # COMMAND ----------
